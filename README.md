@@ -11,9 +11,6 @@ Cloud-Native Evidence: Supports image uploads converted to Base64 strings for se
 🛠️ Tech Stack
 Frontend: HTML5, CSS3 (Custom Glassmorphism UI), Bootstrap 5.3
 Backend: Firebase Realtime Database (Compat Version)
-
 AI Engine: Google Gemini API (1.5 Flash / 2.0 Flash)
-
 Icons: FontAwesome 6.4.0
-
 Deployment: Firebase Hosting
