@@ -14,3 +14,6 @@ Backend: Firebase Realtime Database (Compat Version)
 AI Engine: Google Gemini API (1.5 Flash / 2.0 Flash)
 Icons: FontAwesome 6.4.0
 Deployment: Firebase Hosting
+
+Check for the WEB APP:
+https://gen-lang-client-0560501586.web.app/
